@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DemoSession10</string>
+    <string name="menu1">Menu 1</string>
+    <string name="menu2">Menu 2</string>
+    <string name="menu3">Menu 3</string>
+    <string name="search">Search..</string>
+    <string name="name">Name..</string>
+    <string name="username">Username</string>
+    <string name="save">Save</string>
+    <string name="done">Done</string>
+    <string name="exist">Exist</string>
+    <string name="password">Password</string>
+    <string name="age">Age</string>
+</resources>

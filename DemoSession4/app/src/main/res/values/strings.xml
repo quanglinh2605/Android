@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DemoSession4</string>
+    <string name="get_selected">Get Selected Category</string>
+    <string name="name">Name</string>
+    <string name="price">Price</string>
+    <string name="description">Description</string>
+    <string name="photo">Photo</string>
+    <string name="infoDialog">Info Dialog</string>
+    <string name="information">Information</string>
+    <string name="done">Done</string>
+    <string name="ok">OK</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="confirm_dialog">Confirm Dialog</string>
+    <string name="custom_dialog">Custom Dialog</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+</resources>

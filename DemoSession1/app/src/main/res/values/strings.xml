@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DemoSession1</string>
+    <string name="hello">Hello Kitty</string>
+    <string name="my_app">My App</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="description">Description</string>
+    <string name="age">Age</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="ctof">C to F</string>
+    <string name="ftoc">F to C</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DemoSession8</string>
+    <string name="keyword">Keyword</string>
+    <string name="search">Search</string>
+    <string name="find">Find</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="price">Price</string>
+    <string name="save">Save</string>
+    <string name="fail">Fail</string>
+    <string name="error">Error</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="are_you_ok">Are you ok?</string>
+</resources>

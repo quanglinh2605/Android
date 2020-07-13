@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imageViewphoto1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scaleType="fitStart"
+        app:srcCompat="@drawable/image1" />
+
+    <Button
+        android:id="@+id/buttonChangePhoto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="button_ChangePhoto"
+        android:text="@string/changephoto" />
+
+    <Button
+        android:id="@+id/buttonopenmain2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="button_OpenMain2"
+        android:text="@string/main2" />
+
+</LinearLayout>

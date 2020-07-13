@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DemoSession3</string>
+    <string name="changephoto">Change Photo</string>
+    <string name="main2">Main 2</string>
+    <string name="open_main2">OPEN MAIN 2</string>
+    <string name="back_main">BACK</string>
+    <string name="price">Price</string>
+    <string name="username">Username</string>
+    <string name="status">Status</string>
+    <string name="age">Age</string>
+    <string name="menu1">Menu 1</string>
+    <string name="menu2">Menu 2</string>
+    <string name="menu3">Menu 3</string>
+    <string name="menu3_1">Menu 3.1</string>
+    <string name="menu3_2">Menu 3.2</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="password">Password</string>
+    <string name="welcome">Welcome</string>
+</resources>
